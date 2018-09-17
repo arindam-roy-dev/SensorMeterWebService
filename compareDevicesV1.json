@@ -8,13 +8,22 @@
 
 "compareDevice":[
 		{
-			"id":1001,
+			"id":11001,
 			"manufacturer":"Samsung",
 			"modelCode":"SM-C701F",
 			"modelName":"C7 Pro",
 			"androidVersionRelease":"7.0",
 			"androidVersionCode":"N",
-			"androidVersionName":"Nauget"
+			"androidVersionName":"Nougat"
+		},
+		{
+			"id":12001,
+			"manufacturer":"Xiaomi",
+			"modelCode":"Redmi Note 3",
+			"modelName":"Redmi Note 3",
+			"androidVersionRelease":"6.0.1",
+			"androidVersionCode":"M",
+			"androidVersionName":"Marshmallow"
 		}
 	]
 }
