@@ -1,0 +1,20 @@
+{
+"app":"SensorMeter",
+"webServiceVersion":1,
+"publishDate":"2018-08-17",
+"developedByCompany":"Dreams to Reality Software",
+"projectArchitect":"Arindam Roy",
+"contactEmail":"arindam.roy.dev@gmail.com",
+
+"compareDevice":[
+		{
+			"id":1001,
+			"manufacturer":"Samsung",
+			"modelCode":"SM-C701F",
+			"modelName":"C7 Pro",
+			"androidVersionRelease":"7.0",
+			"androidVersionCode":"N",
+			"androidVersionName":"Nauget"
+		}
+	]
+}
