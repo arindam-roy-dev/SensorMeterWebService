@@ -24,6 +24,15 @@
 			"androidVersionRelease":"6.0",
 			"androidVersionCode":"M",
 			"androidVersionName":"Marshmallow"
+		},
+		{
+			"id":12002,
+			"manufacturer":"Bumba",
+			"modelCode":"Hiranmoy",
+			"modelName":"Hiranmoy",
+			"androidVersionRelease":"6.0",
+			"androidVersionCode":"M",
+			"androidVersionName":"Marshmallow"
 		}
 	]
 }
