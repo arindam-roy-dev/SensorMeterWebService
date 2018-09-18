@@ -30,9 +30,9 @@
 			"manufacturer":"Bumba",
 			"modelCode":"Hiranmoy",
 			"modelName":"Hiranmoy",
-			"androidVersionRelease":"6.0",
-			"androidVersionCode":"M",
-			"androidVersionName":"Marshmallow"
+			"androidVersionRelease":"8.0",
+			"androidVersionCode":"O",
+			"androidVersionName":"Oreo"
 		}
 	]
 }
