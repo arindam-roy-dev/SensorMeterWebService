@@ -6,24 +6,21 @@
 "projectArchitect":"Arindam Roy",
 "contactEmail":"arindam.roy.dev@gmail.com",
 
-"compareDevice":[
-		{
-			"id":11001,
-			"manufacturer":"Samsung",
-			"modelCode":"SM-C701F",
-			"modelName":"C7 Pro",
-			"androidVersionRelease":"7.0",
-			"androidVersionCode":"N",
-			"androidVersionName":"Nougat"
-		},
-		{
-			"id":12001,
-			"manufacturer":"Xiaomi",
-			"modelCode":"Redmi Note 3",
-			"modelName":"Redmi Note 3",
-			"androidVersionRelease":"6.0",
-			"androidVersionCode":"M",
-			"androidVersionName":"Marshmallow"
-		}
-	]
+"compareDevice":[{
+	"id":11001,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-C701F",
+	"modelName":"C7 Pro",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
+	"id":12001,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 3",
+	"modelName":"Redmi Note 3",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
+	}]
 }
