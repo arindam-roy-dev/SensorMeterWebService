@@ -22,5 +22,13 @@
 	"androidVersionRelease":"6.0",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
+	},{
+	"id":12003,
+	"manufacturer":"Kousik Char",
+	"modelCode":"Debu",
+	"modelName":"Debu",
+	"androidVersionRelease":"8.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
 	}]
 }
