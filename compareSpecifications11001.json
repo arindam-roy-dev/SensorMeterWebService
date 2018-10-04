@@ -3,7 +3,7 @@
 	"sensorType":"ACCELEROMETER",
 	"name":"K6DS3TR Accelerometer",
 	"vendor":"STM",
-	"powerConsumption":"0.25 mA",
+	"powerConsumption":"0.25",
 	"maxRange":"78.4532",
 	"delay":"5000-200000",
 	"resolution":"0.0023942017"
@@ -11,7 +11,7 @@
 	"sensorType":"LINEAR ACCELERATION",
 	"name":"Samsung Linear Acceleration Sensor",
 	"vendor":"Samsung Electronics",
-	"powerConsumption":"12.35 mA",
+	"powerConsumption":"12.35",
 	"maxRange":"78.4532",
 	"delay":"10000-0",
 	"resolution":"0.0023942017"
@@ -19,7 +19,7 @@
 	"sensorType":"GYROSCOPE",
 	"name":"K6DS3TR Gyroscope",
 	"vendor":"STM",
-	"powerConsumption":"6.1 mA",
+	"powerConsumption":"6.1",
 	"maxRange":"17.453293",
 	"delay":"5000-200000",
 	"resolution":"6.1086525E-4"
@@ -27,7 +27,7 @@
 	"sensorType":"GRAVITY",
 	"name":"Samsung Gravity Sensor",
 	"vendor":"Samsung Electronics",
-	"powerConsumption":"12.35 mA",
+	"powerConsumption":"12.35",
 	"maxRange":"19.6133",
 	"delay":"0 - 10000",
 	"resolution":"0.0023942017"
@@ -35,7 +35,7 @@
 	"sensorType":"MAGNETIC FIELD",
 	"name":"AK09916C Magnetometer",
 	"vendor":"Asahi Kasei Microdevices",
-	"powerConsumption":"6.0 mA",
+	"powerConsumption":"6.0",
 	"maxRange":"2000.0",
 	"delay":"10000 - 200000",
 	"resolution":"0.06"
