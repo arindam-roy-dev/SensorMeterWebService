@@ -8,7 +8,7 @@
 	"delay":"5000-200000",
 	"resolution":"0.0023942017"
 	},{
-	"sensorType":"LINEAR ACCELERATION",
+	"sensorType":"LINEAR ACCELEROMETER",
 	"name":"Samsung Linear Acceleration Sensor",
 	"vendor":"Samsung Electronics",
 	"powerConsumption":"12.35",
