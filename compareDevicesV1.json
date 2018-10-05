@@ -15,6 +15,14 @@
 	"androidVersionCode":"N",
 	"androidVersionName":"Nougat"
 	},{
+	"id":11002,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-J710F",
+	"modelName":"J7",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
 	"id":12001,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi Note 3",

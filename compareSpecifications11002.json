@@ -1,0 +1,20 @@
+{
+"name":"Samsung J7",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"K2HH Accelerometer",
+	"vendor":"STM",
+	"powerConsumption":"0.13",
+	"maxRange":"39.2266",
+	"delay":"10000-200000",
+	"resolution":"0.0011971008"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"STK3013 Proximity",
+	"vendor":"SENSORTEK",
+	"powerConsumption":"0.75",
+	"maxRange":"8.0",
+	"delay":"0",
+	"resolution":"8.0"
+	}]
+}
