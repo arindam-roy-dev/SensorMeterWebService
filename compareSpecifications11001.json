@@ -39,5 +39,45 @@
 	"maxRange":"2000.0",
 	"delay":"10000 - 200000",
 	"resolution":"0.06"
+	},{
+	"sensorType":"LIGHT",
+	"name":"CM36686 Light",
+	"vendor":"Capella Microsystems, Inc.",
+	"powerConsumption":"0.75",
+	"maxRange":"65000.0",
+	"delay":"10000 - 200000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"CM36686 Proximity",
+	"vendor":"Capella Microsystems, Inc.",
+	"powerConsumption":"0.75",
+	"maxRange":"8.0",
+	"delay":"0 - 200000",
+	"resolution":"8.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Samsung Game Rotation Vector Sensor",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"12.23",
+	"maxRange":"1.0",
+	"delay":"10000 - 0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Samsung Rotation Vector Sensor",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"2.23",
+	"maxRange":"1.0",
+	"delay":"10000 - 0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"SIGNIFICANT MOTION",
+	"name":"K6DS3TR Significant Motion Detector",
+	"vendor":"STM",
+	"powerConsumption":"0.75",
+	"maxRange":"1.0",
+	"delay":"0 - 0",
+	"resolution":"1.0"
 	}]
 }
