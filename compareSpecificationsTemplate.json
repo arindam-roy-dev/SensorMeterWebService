@@ -1,0 +1,108 @@
+{
+"name":"",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"GRAVITY",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"LIGHT",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"RELATIVE HUMIDITY",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"MOTION DETECT",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"SIGNIFICANT MOTION",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	},{
+	"sensorType":"STEP DETECTOR",
+	"name":"",
+	"vendor":"",
+	"powerConsumption":"",
+	"maxRange":"",
+	"delay":"",
+	"resolution":""
+	}]
+}

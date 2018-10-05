@@ -1,4 +1,5 @@
 {
+"name":"Samsung C7 Pro",
 "sensors":[{
 	"sensorType":"ACCELEROMETER",
 	"name":"K6DS3TR Accelerometer",
