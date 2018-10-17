@@ -27,9 +27,9 @@
 	"manufacturer":"Samsung",
 	"modelCode":"SM-J710F",
 	"modelName":"E5",
-	"androidVersionRelease":"7.0",
-	"androidVersionCode":"N",
-	"androidVersionName":"Nougat"
+	"androidVersionRelease":"5.1",
+	"androidVersionCode":"L",
+	"androidVersionName":"Lollipop"
 	},{
 	"id":12001,
 	"manufacturer":"Xiaomi",
