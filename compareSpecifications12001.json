@@ -1,0 +1,92 @@
+{
+"name":"Xiaomi Redmi Note 3",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BMI160 Accelerometer",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.18",
+	"maxRange":"39.22661",
+	"delay":"5000-1000000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"1.0799866",
+	"maxRange":"39.22661",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"BMI160 Gyroscope",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.9",
+	"maxRange":"34.906586",
+	"delay":"5000-1000000",
+	"resolution":"0.0010681152"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"1.0799866",
+	"maxRange":"39.22661",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"YAS537 Magnetometer",
+	"vendor":"Yamaha",
+	"powerConsumption":"0.28",
+	"maxRange":"2000.0",
+	"delay":"10000-1000000",
+	"resolution":"0.30059814"
+	},{
+	"sensorType":"LIGHT",
+	"name":"LTR55X ALSPRX",
+	"vendor":"Liteon",
+	"powerConsumption":"0.1",
+	"maxRange":"10000.0",
+	"delay":"0-65535000",
+	"resolution":"0.01499939"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"LTR55X ALSPRX",
+	"vendor":"Liteon",
+	"powerConsumption":"0.15",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"0.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.0799866",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"0.45999146",
+	"maxRange":"1.0",
+	"delay":"10000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.1799927",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.17999268",
+	"maxRange":"1.0",
+	"delay":"0-10000000",
+	"resolution":"1.0"
+	}]
+}
