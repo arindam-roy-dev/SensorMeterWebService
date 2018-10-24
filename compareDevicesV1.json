@@ -23,6 +23,14 @@
 	"androidVersionCode":"N",
 	"androidVersionName":"Nougat"
 	},{
+	"id":11004,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G615F",
+	"modelName":"J7 Max",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
 	"id":11002,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-E500H",
