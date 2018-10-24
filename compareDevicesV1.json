@@ -39,6 +39,14 @@
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
 	},{
+	"id":12002,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 4",
+	"modelName":"Redmi Note 4",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
 	"id":13001,
 	"manufacturer":"Infinix",
 	"modelCode":"Infinix X573",
