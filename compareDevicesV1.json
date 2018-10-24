@@ -46,5 +46,13 @@
 	"androidVersionRelease":"8.0",
 	"androidVersionCode":"O",
 	"androidVersionName":"Oreo"
+	},{
+	"id":21001,
+	"manufacturer":"Panasonic",
+	"modelCode":"Panasonic P85",
+	"modelName":"P85",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
 	}]
 }
