@@ -126,5 +126,29 @@
 	"androidVersionRelease":"8.0",
 	"androidVersionCode":"O",
 	"androidVersionName":"Oreo"
+	},{
+	"id":990008,
+	"manufacturer":"Dummy 8",
+	"modelCode":"X100 8",
+	"modelName":"X100 8",
+	"androidVersionRelease":"8.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
+	"id":990009,
+	"manufacturer":"Dummy 9",
+	"modelCode":"X100 9",
+	"modelName":"X100 9",
+	"androidVersionRelease":"8.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
+	"id":990010,
+	"manufacturer":"Dummy 10",
+	"modelCode":"X100 10",
+	"modelName":"X100 10",
+	"androidVersionRelease":"8.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
 	}]
 }
