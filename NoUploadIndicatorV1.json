@@ -1,0 +1,18 @@
+{
+"app":"SensorMeter",
+"webServiceVersion":1,
+"publishDate":"Oct, 2018",
+"developedByCompany":"Dreams to Reality Software",
+"projectArchitect":"Arindam Roy",
+"contactEmail":"arindam.roy.dev@gmail.com",
+
+"uploadedDevices":[{
+	"manufacturer":"Samsung",
+	"modelCode":"SM-A730F",
+	"modelName":"A8+",
+	},{
+	"manufacturer":"Samsung",
+	"modelCode":"SM-C701F",
+	"modelName":"C7 Pro",
+	}]
+}
