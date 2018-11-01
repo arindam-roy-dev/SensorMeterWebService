@@ -7,6 +7,14 @@
 "contactEmail":"arindam.roy.dev@gmail.com",
 
 "compareDevice":[{
+	"id":11005,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G610F",
+	"modelName":"J7 Prime",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
 	"id":11003,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-A730F",
