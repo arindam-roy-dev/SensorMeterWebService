@@ -14,5 +14,33 @@
 	"manufacturer":"Samsung",
 	"modelCode":"SM-C701F",
 	"modelName":"C7 Pro"
+	},{
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G610F",
+	"modelName":"J7 Prime"
+	},{
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G615F",
+	"modelName":"J7 Max"
+	},{
+	"manufacturer":"Samsung",
+	"modelCode":"SM-E500H",
+	"modelName":"E5"
+	},{
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 3",
+	"modelName":"Redmi Note 3"
+	},{
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 4",
+	"modelName":"Redmi Note 4"
+	},{
+	"manufacturer":"Infinix",
+	"modelCode":"Infinix X573",
+	"modelName":"Hot S3"
+	},{
+	"manufacturer":"Panasonic",
+	"modelCode":"Panasonic P85",
+	"modelName":"P85"
 	}]
 }
