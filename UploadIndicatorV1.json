@@ -8,10 +8,6 @@
 "secondaryEmail":"sensor_meter_d2r@gmail.com",
 "uploadedDevices":[{
 	"manufacturer":"Samsung",
-	"modelCode":"SM-A730F",
-	"modelName":"A8+"
-	},{
-	"manufacturer":"Samsung",
 	"modelCode":"SM-C701F",
 	"modelName":"C7 Pro"
 	}]
