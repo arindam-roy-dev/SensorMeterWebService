@@ -4,8 +4,8 @@
 "publishDate":"Oct, 2018",
 "developedByCompany":"Dreams to Reality Software",
 "projectArchitect":"Arindam Roy",
-"contactEmail":"arindam.roy.dev@gmail.com",
-"security":"Passw0rd#4854",
+"primaryEmail":"arindam.roy.dev@gmail.com",
+"secondaryEmail":"sensor_meter_d2r@gmail.com",
 "uploadedDevices":[{
 	"manufacturer":"Samsung",
 	"modelCode":"SM-A730F",
