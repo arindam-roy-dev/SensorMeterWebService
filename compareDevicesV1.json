@@ -63,6 +63,14 @@
 	"androidVersionCode":"N",
 	"androidVersionName":"Nougat"
 	},{
+	"id":12003,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Y1",
+	"modelName":"Redmi Y1",
+	"androidVersionRelease":"7.1.2",
+	"androidVersionCode":"N_MR1",
+	"androidVersionName":"Nougat"
+	},{
 	"id":13001,
 	"manufacturer":"Infinix",
 	"modelCode":"Infinix X573",
