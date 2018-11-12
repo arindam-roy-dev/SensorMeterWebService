@@ -1,7 +1,7 @@
 {
 "app":"SensorMeter",
 "webServiceVersion":1,
-"publishDate":"Oct, 2018",
+"publishDate":"Nov, 2018",
 "developedByCompany":"Dreams to Reality Software",
 "projectArchitect":"Arindam Roy",
 "contactEmail":"arindam.roy.dev@gmail.com",
@@ -70,6 +70,14 @@
 	"androidVersionRelease":"8.0",
 	"androidVersionCode":"O",
 	"androidVersionName":"Oreo"
+	},{
+	"id":14001,
+	"manufacturer":"OnePlus",
+	"modelCode":"ONEPLUS A6000",
+	"modelName":"OnePlus 6",
+	"androidVersionRelease":"9",
+	"androidVersionCode":"P",
+	"androidVersionName":"Pie"
 	},{
 	"id":21001,
 	"manufacturer":"Panasonic",
