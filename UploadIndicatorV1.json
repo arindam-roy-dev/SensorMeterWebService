@@ -7,38 +7,57 @@
 "primaryEmail":"arindam.roy.dev@gmail.com",
 "secondaryEmail":"sensor_meter_d2r@gmail.com",
 "uploadedDevices":[{
+	"id":11005,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G610F",
+	"modelName":"J7 Prime",
+	},{
+	"id":11003,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-A730F",
 	"modelName":"A8+"
 	},{
+	"id":11001,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-C701F",
 	"modelName":"C7 Pro"
 	},{
-	"manufacturer":"Samsung",
-	"modelCode":"SM-G610F",
-	"modelName":"J7 Prime"
-	},{
+	"id":11004,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-G615F",
 	"modelName":"J7 Max"
 	},{
+	"id":11002,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-E500H",
 	"modelName":"E5"
 	},{
+	"id":12001,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi Note 3",
 	"modelName":"Redmi Note 3"
 	},{
+	"id":12002,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi Note 4",
 	"modelName":"Redmi Note 4"
 	},{
+	"id":12003,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Y1",
+	"modelName":"Redmi Y1",
+	},{
+	"id":13001,
 	"manufacturer":"Infinix",
 	"modelCode":"Infinix X573",
 	"modelName":"Hot S3"
 	},{
+	"id":14001,
+	"manufacturer":"OnePlus",
+	"modelCode":"ONEPLUS A6000",
+	"modelName":"6",
+	},{
+	"id":21001,
 	"manufacturer":"Panasonic",
 	"modelCode":"Panasonic P85",
 	"modelName":"P85"
