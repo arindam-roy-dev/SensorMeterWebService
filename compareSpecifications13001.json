@@ -81,16 +81,8 @@
 	"delay":"10000-200000",
 	"resolution":"5.9604645E-8"
 	},{
-	"sensorType":"SIGNIFICANT MOTION",
-	"name":"Significant Motion Detector",
-	"vendor":"QTI",
-	"powerConsumption":"0.12998962",
-	"maxRange":"1.0",
-	"delay":"-1 - 0",
-	"resolution":"1.0"
-	},{
-	"sensorType":"STEP DETECTOR",
-	"name":"Step Detector",
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
 	"vendor":"QTI",
 	"powerConsumption":"0.12998962",
 	"maxRange":"1.0",
