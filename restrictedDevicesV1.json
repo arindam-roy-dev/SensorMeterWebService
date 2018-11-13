@@ -1,16 +1,16 @@
 {
 "app":"SensorMeter",
 "webServiceVersion":1,
-"publishDate":"Oct, 2018",
+"publishDate":"Nov, 2018",
 "developedByCompany":"Dreams to Reality Software",
 "projectArchitect":"Arindam Roy",
-"primaryEmail":"arindam.roy.dev@gmail.com",
+"primaryEmail":"sensor.meter.d2r@gmail.com",
 "secondaryEmail":"sensor_meter_d2r@gmail.com",
-"uploadedDevices":[{
+"restrictedDevices":[{
 	"id":11005,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-G610F",
-	"modelName":"J7 Prime",
+	"modelName":"J7 Prime"
 	},{
 	"id":11003,
 	"manufacturer":"Samsung",
@@ -45,7 +45,7 @@
 	"id":12003,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi Y1",
-	"modelName":"Redmi Y1",
+	"modelName":"Redmi Y1"
 	},{
 	"id":13001,
 	"manufacturer":"Infinix",
@@ -55,7 +55,7 @@
 	"id":14001,
 	"manufacturer":"OnePlus",
 	"modelCode":"ONEPLUS A6000",
-	"modelName":"6",
+	"modelName":"6"
 	},{
 	"id":21001,
 	"manufacturer":"Panasonic",
