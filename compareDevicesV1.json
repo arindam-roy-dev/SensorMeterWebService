@@ -71,6 +71,14 @@
 	"androidVersionCode":"N_MR1",
 	"androidVersionName":"Nougat"
 	},{
+	"id":12004,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 5 Pro",
+	"modelName":"Redmi Note 5 Pro",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":13001,
 	"manufacturer":"Infinix",
 	"modelCode":"Infinix X573",
