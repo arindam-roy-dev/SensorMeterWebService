@@ -87,6 +87,14 @@
 	"androidVersionCode":"P",
 	"androidVersionName":"Pie"
 	},{
+	"id":15001,
+	"manufacturer":"LG",
+	"modelCode":"LM-Q710.FGN",
+	"modelName":"Q7 Stylus",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":21001,
 	"manufacturer":"Panasonic",
 	"modelCode":"Panasonic P85",
