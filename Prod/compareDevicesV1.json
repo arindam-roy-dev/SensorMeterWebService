@@ -103,6 +103,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+    "id":16001,
+	"manufacturer":"Huawei",
+	"modelCode":"Nexus 6P",
+	"modelName":"Nexus 6P",
+	"androidVersionRelease":"8.0.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
 	"id":21001,
 	"manufacturer":"Panasonic",
 	"modelCode":"Panasonic P85",

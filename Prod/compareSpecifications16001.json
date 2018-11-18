@@ -1,0 +1,100 @@
+{
+"name":"Huawei Nexus 6P",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BMI160 accelerometer",
+	"vendor":"Bosch",
+	"powerConsumption":"0.001",
+	"maxRange":"78.4532",
+	"delay":"2500-160000",
+	"resolution":"0.0023942017"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"Google",
+	"powerConsumption":"0.001",
+	"maxRange":"1000.0",
+	"delay":"5000-80000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"BMI160 gyroscope",
+	"vendor":"Bosch",
+	"powerConsumption":"0.001",
+	"maxRange":"17.453293",
+	"delay":"2500-160000",
+	"resolution":"5.326322E-4"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"Google",
+	"powerConsumption":"0.001",
+	"maxRange":"1000.0",
+	"delay":"5000-80000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"BMM150 magnetometer",
+	"vendor":"Bosch",
+	"powerConsumption":"0.001",
+	"maxRange":"1300.0",
+	"delay":"20000-320000",
+	"resolution":"0.0"
+	},{
+	"sensorType":"LIGHT",
+	"name":"TMD27723 Light Sensor",
+	"vendor":"AMS",
+	"powerConsumption":"0.001",
+	"maxRange":"10000.0",
+	"delay":"200000-10000000",
+	"resolution":"10.0"
+	},{
+	"sensorType":"PRESSURE",
+	"name":"BMP280 pressure",
+	"vendor":"Bosch",
+	"powerConsumption":"0.001",
+	"maxRange":"1100.0",
+	"delay":"100000-10000000",
+	"resolution":"0.005"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"TMD27723 Proximity Sensor",
+	"vendor":"AMS",
+	"powerConsumption":"0.001",
+	"maxRange":"5.0",
+	"delay":"200000-10000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector",
+	"vendor":"Google",
+	"powerConsumption":"0.001",
+	"maxRange":"1000.0",
+	"delay":"5000-80000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"Geomagnetic Rotation Vector",
+	"vendor":"Google",
+	"powerConsumption":"0.001",
+	"maxRange":"1000.0",
+	"delay":"5000-80000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"Google",
+	"powerConsumption":"0.001",
+	"maxRange":"1000.0",
+	"delay":"5000-80000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"BMI160 Step counter",
+	"vendor":"Bosch",
+	"powerConsumption":"0.001",
+	"maxRange":"1.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	}]
+}
