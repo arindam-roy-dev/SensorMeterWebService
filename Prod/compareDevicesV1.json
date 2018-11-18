@@ -119,6 +119,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+	"id":18001,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Mi A1",
+	"modelName":"Mi A1",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":21001,
 	"manufacturer":"Panasonic",
 	"modelCode":"Panasonic P85",
