@@ -111,6 +111,14 @@
 	"androidVersionCode":"O",
 	"androidVersionName":"Oreo"
 	},{
+	"id":17001,
+	"manufacturer":"OPPO",
+	"modelCode":"CPH1823",
+	"modelName":"F9 Pro",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":21001,
 	"manufacturer":"Panasonic",
 	"modelCode":"Panasonic P85",
