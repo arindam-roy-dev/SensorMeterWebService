@@ -1,0 +1,114 @@
+{
+"app":"SensorMeter",
+"webServiceVersion":1,
+"publishDate":"Nov, 2018",
+"developedByCompany":"Dreams to Reality Software",
+"projectArchitect":"Arindam Roy",
+"contactEmail":"arindam.roy.dev@gmail.com",
+
+"compareDevice":[{
+	"id":11005,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G610F",
+	"modelName":"J7 Prime",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
+	"id":11003,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-A730F",
+	"modelName":"A8+",
+	"androidVersionRelease":"8.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
+	"id":11001,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-C701F",
+	"modelName":"C7 Pro",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
+	"id":11004,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G615F",
+	"modelName":"J7 Max",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
+	"id":11002,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-E500H",
+	"modelName":"E5",
+	"androidVersionRelease":"5.1.1",
+	"androidVersionCode":"L",
+	"androidVersionName":"Lollipop"
+	},{
+	"id":12001,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 3",
+	"modelName":"Redmi Note 3",
+	"androidVersionRelease":"6.0.1",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
+	},{
+	"id":12002,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 4",
+	"modelName":"Redmi Note 4",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
+	"id":12003,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Y1",
+	"modelName":"Redmi Y1",
+	"androidVersionRelease":"7.1.2",
+	"androidVersionCode":"N_MR1",
+	"androidVersionName":"Nougat"
+	},{
+	"id":12004,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 5 Pro",
+	"modelName":"Redmi Note 5 Pro",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
+	"id":13001,
+	"manufacturer":"Infinix",
+	"modelCode":"Infinix X573",
+	"modelName":"Hot S3",
+	"androidVersionRelease":"8.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
+	"id":14001,
+	"manufacturer":"OnePlus",
+	"modelCode":"ONEPLUS A6000",
+	"modelName":"6",
+	"androidVersionRelease":"9",
+	"androidVersionCode":"P",
+	"androidVersionName":"Pie"
+	},{
+	"id":15001,
+	"manufacturer":"LG",
+	"modelCode":"LM-Q710.FGN",
+	"modelName":"Q7 Stylus",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
+	"id":21001,
+	"manufacturer":"Panasonic",
+	"modelCode":"Panasonic P85",
+	"modelName":"P85",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
+	}]
+}
