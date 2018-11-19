@@ -79,6 +79,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+	"id":12005,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi 4A",
+	"modelName":"",
+	"androidVersionRelease":"7.1.2",
+	"androidVersionCode":"N_MR1",
+	"androidVersionName":"Nougat"
+	},{
 	"id":13001,
 	"manufacturer":"Infinix",
 	"modelCode":"Infinix X573",
@@ -134,5 +142,13 @@
 	"androidVersionRelease":"6.0",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
+	},{
+	"id":91001,
+	"manufacturer":"Longcheer",
+	"modelCode":"D",
+	"modelName":"D",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
 	}]
 }
