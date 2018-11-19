@@ -1,0 +1,60 @@
+{
+"name":"Xiaomi Redmi 6A",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"ST_LIS3DHTR",
+	"vendor":"lis3dh",
+	"powerConsumption":"0.001",
+	"maxRange":"78.4532",
+	"delay":"5000-100000",
+	"resolution":"0.0012"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"GRAVITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"39.2266",
+	"delay":"5000-20000",
+	"resolution":"0.0012"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"AK09918C",
+	"vendor":"akl",
+	"powerConsumption":"0.001",
+	"maxRange":"4912.0",
+	"delay":"20000-200000",
+	"resolution":"0.15"
+	},{
+	"sensorType":"LIGHT",
+	"name":"STK3321",
+	"vendor":"stk3321_l",
+	"powerConsumption":"0.001",
+	"maxRange":"65535.0",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"STK3321",
+	"vendor":"stk3321_p",
+	"powerConsumption":"0.001",
+	"maxRange":"1.0",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMag Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"0.002",
+	"maxRange":"1.0",
+	"delay":"5000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"STEP_COUNTER",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"2.14748365E9",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	}]
+}

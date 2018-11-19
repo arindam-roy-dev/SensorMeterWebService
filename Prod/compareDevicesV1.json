@@ -55,6 +55,14 @@
 	"androidVersionCode":"L",
 	"androidVersionName":"Lollipop"
 	},{
+	"id":12008,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi 6A",
+	"modelName":"Redmi 6A",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":12001,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi Note 3",
@@ -127,6 +135,14 @@
 	"androidVersionCode":"P",
 	"androidVersionName":"Pie"
 	},{
+	"id":14003,
+	"manufacturer":"OnePlus",
+	"modelCode":"ONEPLUS A5010",
+	"modelName":"5T",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":14002,
 	"manufacturer":"OnePlus",
 	"modelCode":"ONEPLUS A3003",
@@ -195,6 +211,14 @@
 	"manufacturer":"Panasonic",
 	"modelCode":"Panasonic P85",
 	"modelName":"P85",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
+	},{
+	"id":21002,
+	"manufacturer":"Panasonic",
+	"modelCode":"ELUGA Note",
+	"modelName":"Eluga Note",
 	"androidVersionRelease":"6.0",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
