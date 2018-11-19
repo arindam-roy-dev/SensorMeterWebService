@@ -111,6 +111,14 @@
 	"androidVersionCode":"P",
 	"androidVersionName":"Pie"
 	},{
+	"id":14002,
+	"manufacturer":"OnePlus",
+	"modelCode":"ONEPLUS A3003",
+	"modelName":"3",
+	"androidVersionRelease":"8.0.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
 	"id":15001,
 	"manufacturer":"LG",
 	"modelCode":"LM-Q710.FGN",
@@ -128,7 +136,7 @@
 	"androidVersionName":"Oreo"
 	},{
 	"id":17001,
-	"manufacturer":"Oppo",
+	"manufacturer":"OPPO",
 	"modelCode":"CPH1823",
 	"modelName":"F9 Pro",
 	"androidVersionRelease":"8.1.0",
@@ -136,12 +144,20 @@
 	"androidVersionName":"Oreo"
 	},{
 	"id":17002,
-	"manufacturer":"Oppo",
+	"manufacturer":"OPPO",
 	"modelCode":"CPH1701",
 	"modelName":"A57",
 	"androidVersionRelease":"6.0.1",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
+	},{
+	"id":17003,
+	"manufacturer":"OPPO",
+	"modelCode":"A37fw",
+	"modelName":"A37",
+	"androidVersionRelease":"5.1.1",
+	"androidVersionCode":"LOLLIPOP_MR1",
+	"androidVersionName":"Lollipop"
 	},{
 	"id":18001,
 	"manufacturer":"Xiaomi",

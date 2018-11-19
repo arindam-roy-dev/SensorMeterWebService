@@ -1,0 +1,92 @@
+{
+"name":"OnePlus 3",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"LSM6DS3 Accelerometer",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.9",
+	"maxRange":"78.4532",
+	"delay":"5000-1000000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"0.6",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"LSM6DS3 Gyroscope",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.9",
+	"maxRange":"17.453293",
+	"delay":"5000-1000000",
+	"resolution":"0.0012207031"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"0.6",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"MMC3416PJ Magnetometer",
+	"vendor":"MEMSIC",
+	"powerConsumption":"0.14",
+	"maxRange":"1600.0",
+	"delay":"19230-1000000",
+	"resolution":"0.048828125"
+	},{
+	"sensorType":"LIGHT",
+	"name":"APDS-9921 Light",
+	"vendor":"Avago",
+	"powerConsumption":"0.11",
+	"maxRange":"30000.0",
+	"delay":"0-65535000",
+	"resolution":"16.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"APDS-9921 Proximity",
+	"vendor":"Avago",
+	"powerConsumption":"0.183",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"8.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"0.6",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.1",
+	"maxRange":"1.0",
+	"delay":"19230-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.1",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.1",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}
