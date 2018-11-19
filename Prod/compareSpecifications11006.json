@@ -1,0 +1,76 @@
+{
+"name":"Samsung J7 Pro",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"K6DS3TR Accelerometer",
+	"vendor":"STM",
+	"powerConsumption":"0.13",
+	"maxRange":"39.2266",
+	"delay":"10000-200000",
+	"resolution":"0.0011971008"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Samsung Linear Acceleration Sensor",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"12.23",
+	"maxRange":"39.2266",
+	"delay":"10000-0",
+	"resolution":"0.0011971008"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"K6DS3TR Gyroscope",
+	"vendor":"STM",
+	"powerConsumption":"6.1",
+	"maxRange":"17.453293",
+	"delay":"10000-200000",
+	"resolution":"6.1086525E-4"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Samsung Gravity Sensor",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"12.23",
+	"maxRange":"19.6133",
+	"delay":"10000-0",
+	"resolution":"0.0011971008"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"YAS537 Magnetometer",
+	"vendor":"Yamaha Corporation",
+	"powerConsumption":"6.0",
+	"maxRange":"1200.0",
+	"delay":"10000-200000",
+	"resolution":"0.06"
+	},{
+	"sensorType":"LIGHT",
+	"name":"TMD3725 Light",
+	"vendor":"AMS, Inc.",
+	"powerConsumption":"0.75",
+	"maxRange":"65535.0",
+	"delay":"10000-200000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"TMD3725 Proximity",
+	"vendor":"AMS, Inc.",
+	"powerConsumption":"0.75",
+	"maxRange":"8.0",
+	"delay":"0-200000",
+	"resolution":"8.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Samsung Game Rotation Vector Sensor",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"12.23",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Samsung Rotation Vector Sensor",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"12.23",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	}]
+}

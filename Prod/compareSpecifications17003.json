@@ -1,5 +1,5 @@
 {
-"name":"OPPO A37",
+"name":"Oppo A37",
 "sensors":[{
 	"sensorType":"ACCELEROMETER",
 	"name":"lis3dh-accel",

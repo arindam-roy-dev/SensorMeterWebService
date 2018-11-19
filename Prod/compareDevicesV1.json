@@ -7,6 +7,14 @@
 "contactEmail":"arindam.roy.dev@gmail.com",
 
 "compareDevice":[{
+	"id":11006,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-J730GM",
+	"modelName":"J7 Pro",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":11005,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-G610F",
@@ -87,6 +95,14 @@
 	"androidVersionCode":"N_MR1",
 	"androidVersionName":"Nougat"
 	},{
+	"id":12007,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi 4",
+	"modelName":"Redmi 4",
+	"androidVersionRelease":"6.0.1",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
+	},{
 	"id":12006,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi 3S",
@@ -136,7 +152,7 @@
 	"androidVersionName":"Oreo"
 	},{
 	"id":17001,
-	"manufacturer":"OPPO",
+	"manufacturer":"Oppo",
 	"modelCode":"CPH1823",
 	"modelName":"F9 Pro",
 	"androidVersionRelease":"8.1.0",
@@ -144,7 +160,7 @@
 	"androidVersionName":"Oreo"
 	},{
 	"id":17002,
-	"manufacturer":"OPPO",
+	"manufacturer":"Oppo",
 	"modelCode":"CPH1701",
 	"modelName":"A57",
 	"androidVersionRelease":"6.0.1",
@@ -152,7 +168,7 @@
 	"androidVersionName":"Marshmallow"
 	},{
 	"id":17003,
-	"manufacturer":"OPPO",
+	"manufacturer":"Oppo",
 	"modelCode":"A37fw",
 	"modelName":"A37",
 	"androidVersionRelease":"5.1.1",
@@ -163,6 +179,14 @@
 	"manufacturer":"Xiaomi",
 	"modelCode":"Mi A1",
 	"modelName":"Mi A1",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
+	"id":19001,
+	"manufacturer":"HMD Global",
+	"modelCode":"TA-1021",
+	"modelName":"Nokia 6",
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
