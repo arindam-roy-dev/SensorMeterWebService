@@ -87,6 +87,14 @@
 	"androidVersionCode":"N_MR1",
 	"androidVersionName":"Nougat"
 	},{
+	"id":12006,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi 3S",
+	"modelName":"Redmi 3S",
+	"androidVersionRelease":"6.0.1",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
+	},{
 	"id":13001,
 	"manufacturer":"Infinix",
 	"modelCode":"Infinix X573",
@@ -120,12 +128,20 @@
 	"androidVersionName":"Oreo"
 	},{
 	"id":17001,
-	"manufacturer":"OPPO",
+	"manufacturer":"Oppo",
 	"modelCode":"CPH1823",
 	"modelName":"F9 Pro",
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
+	},{
+	"id":17002,
+	"manufacturer":"Oppo",
+	"modelCode":"CPH1701",
+	"modelName":"A57",
+	"androidVersionRelease":"6.0.1",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
 	},{
 	"id":18001,
 	"manufacturer":"Xiaomi",

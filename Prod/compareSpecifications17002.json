@@ -1,0 +1,84 @@
+{
+"name":"Oppo A57",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"LIS3DH Accelerometer",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.185",
+	"maxRange":"39.22661",
+	"delay":"5000-1000000",
+	"resolution":"0.019607544"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Oppo_Linear_Acceleration",
+	"vendor":"OPPO",
+	"powerConsumption":"0.0",
+	"maxRange":"360.0",
+	"delay":"10000-200000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"Oppo_Gyroscope",
+	"vendor":"OPPO",
+	"powerConsumption":"0.0",
+	"maxRange":"360.0",
+	"delay":"10000-200000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Oppo_Gravity",
+	"vendor":"OPPO",
+	"powerConsumption":"-1.9457594E-21",
+	"maxRange":"360.0",
+	"delay":"10000-200000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"MMC3530KJ Magnetometer",
+	"vendor":"MEMSIC",
+	"powerConsumption":"0.16",
+	"maxRange":"3000.0",
+	"delay":"10000-1000000",
+	"resolution":"0.09765625"
+	},{
+	"sensorType":"LIGHT",
+	"name":"apds9922- Light",
+	"vendor":"Avago",
+	"powerConsumption":"0.11",
+	"maxRange":"31000.0",
+	"delay":"0-65535000",
+	"resolution":"16.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"apds9922- Proximity",
+	"vendor":"Avago",
+	"powerConsumption":"0.183",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"800.0"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"0.34744263",
+	"maxRange":"1.0",
+	"delay":"10000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Oppo_Rotation_Vector",
+	"vendor":"OPPO",
+	"powerConsumption":"0.0",
+	"maxRange":"360.0",
+	"delay":"10000-200000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.18499756",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}
