@@ -1,0 +1,76 @@
+{
+"name":"Xiaomi Redmi 5A",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BMA253 Accelerometer/Temperature/Double-tap",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.13",
+	"maxRange":"39.22661",
+	"delay":"5000-1000000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"39.22661",
+	"delay":"20000-200000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"39.22661",
+	"delay":"20000-200000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"AK09918 Magnetometer",
+	"vendor":"AKM",
+	"powerConsumption":"1.1",
+	"maxRange":"4911.9995",
+	"delay":"20000-1000000",
+	"resolution":"0.14953613"
+	},{
+	"sensorType":"LIGHT",
+	"name":"LTR578 ALSPS",
+	"vendor":"LiteOn",
+	"powerConsumption":"0.11",
+	"maxRange":"10000.0",
+	"delay":"0-65535000",
+	"resolution":"0.01499939"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"LTR578 ALSPS",
+	"vendor":"LiteOn",
+	"powerConsumption":"0.095",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"0.0"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"1.0",
+	"delay":"20000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"1.0",
+	"delay":"20000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.12998962",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}

@@ -1,0 +1,76 @@
+{
+"name":"Oppo F3",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"ACCELEROMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"32.0",
+	"delay":"10000-0",
+	"resolution":"0.00390625"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"LINEARACCEL",
+	"vendor":"MTK",
+	"powerConsumption":"0.5",
+	"maxRange":"10240.0",
+	"delay":"10000-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"GYROSCOPE",
+	"vendor":"MTK",
+	"powerConsumption":"6.1",
+	"maxRange":"34.91",
+	"delay":"10000-0",
+	"resolution":"0.0107"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"GRAVITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.5",
+	"maxRange":"10240.0",
+	"delay":"10000-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"MAGNETOMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.25",
+	"maxRange":"600.0",
+	"delay":"10000-0",
+	"resolution":"0.0016667"
+	},{
+	"sensorType":"LIGHT",
+	"name":"LIGHT",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"10240.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"PROXIMITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"5.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"ROTATION VECTOR",
+	"vendor":"MTK",
+	"powerConsumption":"0.5",
+	"maxRange":"10240.0",
+	"delay":"10000-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"STEP_COUNTER",
+	"vendor":"MTK",
+	"powerConsumption":"0.5",
+	"maxRange":"85.0",
+	"delay":"0-0",
+	"resolution":"0.1"
+	}]
+}

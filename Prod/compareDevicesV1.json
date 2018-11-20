@@ -95,6 +95,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+	"id":12009,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi 5A",
+	"modelName":"Redmi 5A",
+	"androidVersionRelease":"7.1.2",
+	"androidVersionCode":"N_MR1",
+	"androidVersionName":"Nougat"
+	},{
 	"id":12005,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi 4A",
@@ -190,6 +198,14 @@
 	"androidVersionRelease":"5.1.1",
 	"androidVersionCode":"LOLLIPOP_MR1",
 	"androidVersionName":"Lollipop"
+	},{
+	"id":17004,
+	"manufacturer":"Oppo",
+	"modelCode":"CPH1609",
+	"modelName":"F3",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
 	},{
 	"id":18001,
 	"manufacturer":"Xiaomi",
