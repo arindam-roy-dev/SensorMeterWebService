@@ -1,0 +1,92 @@
+{
+"name":"Huawei Honor 6X",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"accelerometer-kx023",
+	"vendor":"KIONIX",
+	"powerConsumption":"0.23",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.009576807"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"linear Acceleration",
+	"vendor":"huawei",
+	"powerConsumption":"0.2",
+	"maxRange":"78.4532",
+	"delay":"10000-20000",
+	"resolution":"0.009576807"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"gyroscope",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"6.1",
+	"maxRange":"34.906586",
+	"delay":"5000-200000",
+	"resolution":"0.0012217305"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"gravity",
+	"vendor":"huawei",
+	"powerConsumption":"0.2",
+	"maxRange":"9.80665",
+	"delay":"10000-20000",
+	"resolution":"0.15328126"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"mag-akm09911",
+	"vendor":"akm",
+	"powerConsumption":"6.8",
+	"maxRange":"2000.0",
+	"delay":"10000-0",
+	"resolution":"0.0625"
+	},{
+	"sensorType":"LIGHT",
+	"name":"light-ltr578",
+	"vendor":"liteon",
+	"powerConsumption":"0.75",
+	"maxRange":"10000.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"proximity-ltr578",
+	"vendor":"liteon",
+	"powerConsumption":"0.75",
+	"maxRange":"5.0",
+	"delay":"0-0",
+	"resolution":"5.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"13.13",
+	"maxRange":"1.0",
+	"delay":"5000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"geomagnetic Rotation Vector",
+	"vendor":"huawei",
+	"powerConsumption":"6.1",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"rotation Vector",
+	"vendor":"huawei",
+	"powerConsumption":"6.1",
+	"maxRange":"1.0",
+	"delay":"10000-20000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"step counter",
+	"vendor":"huawei",
+	"powerConsumption":"0.23",
+	"maxRange":"2.14748365E9",
+	"delay":"0-0",
+	"resolution":"1.0"
+	}]
+}

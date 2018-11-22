@@ -1,0 +1,52 @@
+{
+"name":"Samsung A7 (2016)",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BOSCH Accelerometer Sensor",
+	"vendor":"Bosch Sensortec GmbH",
+	"powerConsumption":"0.1",
+	"maxRange":"39.2266",
+	"delay":"10000-160000",
+	"resolution":"0.0047884034"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"YAS537 Magnetometer",
+	"vendor":"Yamaha Corporation",
+	"powerConsumption":"6.0",
+	"maxRange":"1200.0",
+	"delay":"10000-200000",
+	"resolution":"0.06"
+	},{
+	"sensorType":"LIGHT",
+	"name":"CM36655 Light",
+	"vendor":"Capella Microsystems, Inc.",
+	"powerConsumption":"0.75",
+	"maxRange":"60000.0",
+	"delay":"10000-200000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"CM36655 Proximity",
+	"vendor":"Capella Microsystems, Inc.",
+	"powerConsumption":"0.75",
+	"maxRange":"8.0",
+	"delay":"0-200000",
+	"resolution":"8.0"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"Samsung GeoMagnetic Rotation Vector Sensor",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"6.1",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Samsung Step Counter Sensor",
+	"vendor":"Samsung Electronics.",
+	"powerConsumption":"0.0",
+	"maxRange":"4.2949673E9",
+	"delay":"0-0",
+	"resolution":"1.0"
+	}]
+}

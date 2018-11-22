@@ -7,6 +7,14 @@
 "contactEmail":"arindam.roy.dev@gmail.com",
 
 "compareDevice":[{
+	"id":11007,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-A750F",
+	"modelName":"A7 (2018)",
+	"androidVersionRelease":"8.0.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
 	"id":11006,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-J730GM",
@@ -35,6 +43,14 @@
 	"manufacturer":"Samsung",
 	"modelCode":"SM-C701F",
 	"modelName":"C7 Pro",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
+	"id":11008,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-A710F",
+	"modelName":"A7 (2016)",
 	"androidVersionRelease":"7.0",
 	"androidVersionCode":"N",
 	"androidVersionName":"Nougat"
@@ -223,6 +239,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+	"id":20001,
+	"manufacturer":"Motorola",
+	"modelCode":"Moto G (5S) Plus",
+	"modelName":"Moto G (5S) Plus",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":21001,
 	"manufacturer":"Panasonic",
 	"modelCode":"Panasonic P85",
@@ -238,6 +262,14 @@
 	"androidVersionRelease":"6.0",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
+	},{
+	"id":22001,
+	"manufacturer":"Huawei",
+	"modelCode":"BLN-L22",
+	"modelName":"Honor 6X",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
 	},{
 	"id":91001,
 	"manufacturer":"Longcheer",

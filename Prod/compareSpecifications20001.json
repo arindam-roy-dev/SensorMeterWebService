@@ -1,0 +1,68 @@
+{
+"name":"Motorola Moto G (5S) Plus",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"LSM6DS3 Accelerometer",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.9",
+	"maxRange":"78.4532",
+	"delay":"5000-1000000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"1.7999878",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"LSM6DS3 Gyroscope",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.9",
+	"maxRange":"34.906586",
+	"delay":"5000-1000000",
+	"resolution":"0.0012207031"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"1.7999878",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"LIGHT",
+	"name":"TMD2725 ALS",
+	"vendor":"AMS TAOS",
+	"powerConsumption":"0.1",
+	"maxRange":"1.0",
+	"delay":"0-65535000",
+	"resolution":"0.05000305"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"TMD2725 PROX",
+	"vendor":"AMS TAOS",
+	"powerConsumption":"0.1",
+	"maxRange":"5.0",
+	"delay":"0-65535000",
+	"resolution":"0.05000305"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.7999878",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.8999939",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}
