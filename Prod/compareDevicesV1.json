@@ -191,6 +191,14 @@
 	"androidVersionCode":"O",
 	"androidVersionName":"Oreo"
 	},{
+	"id":16002,
+	"manufacturer":"Huawei",
+	"modelCode":"BLN-L22",
+	"modelName":"Honor 6X",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
 	"id":17001,
 	"manufacturer":"Oppo",
 	"modelCode":"CPH1823",
@@ -262,14 +270,6 @@
 	"androidVersionRelease":"6.0",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
-	},{
-	"id":22001,
-	"manufacturer":"Huawei",
-	"modelCode":"BLN-L22",
-	"modelName":"Honor 6X",
-	"androidVersionRelease":"7.0",
-	"androidVersionCode":"N",
-	"androidVersionName":"Nougat"
 	},{
 	"id":91001,
 	"manufacturer":"Longcheer",
