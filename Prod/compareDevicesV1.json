@@ -71,6 +71,14 @@
 	"androidVersionCode":"L",
 	"androidVersionName":"Lollipop"
 	},{
+	"id":11009,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G531F",
+	"modelName":"Grand Prime",
+	"androidVersionRelease":"5.1.1",
+	"androidVersionCode":"LOLLIPOP_MR1",
+	"androidVersionName":"Lollipop"
+	},{
 	"id":12008,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi 6A",
@@ -203,6 +211,14 @@
 	"manufacturer":"Oppo",
 	"modelCode":"CPH1823",
 	"modelName":"F9 Pro",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
+	"id":17005,
+	"manufacturer":"Oppo",
+	"modelCode":"RMX1811",
+	"modelName":"Realme C1",
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"

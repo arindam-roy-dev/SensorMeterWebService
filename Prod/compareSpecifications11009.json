@@ -1,0 +1,28 @@
+{
+"name":"Samsung Grand Prime",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"K2HH Acceleration ",
+	"vendor":"STM",
+	"powerConsumption":"0.13",
+	"maxRange":"39.2266",
+	"delay":"10000-200000",
+	"resolution":"0.0011971008"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"YAS537 Magnetic Sensor",
+	"vendor":"Yamaha Corporation",
+	"powerConsumption":"0.16",
+	"maxRange":"2000.0",
+	"delay":"10000-200000",
+	"resolution":"0.3"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"GP2A002 Proximity Sensor",
+	"vendor":"SHARP",
+	"powerConsumption":"0.0",
+	"maxRange":"5.0",
+	"delay":"0-0",
+	"resolution":"0.0"
+	}]
+}

@@ -1,0 +1,92 @@
+{
+"name":"Oppo Realme C1",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BMA255 Accelerometer/Temperature/Double-tap",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.13",
+	"maxRange":"39.22661",
+	"delay":"4000-1000000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"39.22661",
+	"delay":"10000-200000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"Softgyro",
+	"vendor":"QTI",
+	"powerConsumption":"1.0",
+	"maxRange":"4.2949673E9",
+	"delay":"10000-200000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"39.22661",
+	"delay":"10000-200000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"AK09918 Magnetometer",
+	"vendor":"AKM",
+	"powerConsumption":"1.1",
+	"maxRange":"4911.9995",
+	"delay":"10000-1000000",
+	"resolution":"0.14953613"
+	},{
+	"sensorType":"LIGHT",
+	"name":"PA22A Light",
+	"vendor":"TXC",
+	"powerConsumption":"0.167",
+	"maxRange":"30000.0",
+	"delay":"0-65535000",
+	"resolution":"0.1000061"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"PA22A Proximity",
+	"vendor":"TXC",
+	"powerConsumption":"1.79",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"0.0010070801"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"2.23",
+	"maxRange":"1.0",
+	"delay":"4000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"1.0",
+	"delay":"10000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"1.0",
+	"delay":"10000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.12998962",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}
