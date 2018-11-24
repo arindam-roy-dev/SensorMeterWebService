@@ -1,0 +1,44 @@
+{
+"name":"LG K10",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"LGE Accelerometer Sensor",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.13",
+	"maxRange":"156.88",
+	"delay":"0-200000",
+	"resolution":"0.009575196"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"LGE Magnetometer Sensor",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.5",
+	"maxRange":"1600.0",
+	"delay":"20000-200000",
+	"resolution":"0.3"
+	},{
+	"sensorType":"LIGHT",
+	"name":"LGE Light Sensor",
+	"vendor":"Partron",
+	"powerConsumption":"0.2",
+	"maxRange":"65535.0",
+	"delay":"100000--1",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"LGE Proximity Sensor",
+	"vendor":"Partron",
+	"powerConsumption":"0.13",
+	"maxRange":"5.0",
+	"delay":"0--1",
+	"resolution":"5.0"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"LGE Rotation Vector Sensor",
+	"vendor":"LG Electronics Inc.",
+	"powerConsumption":"5.63",
+	"maxRange":"1.0",
+	"delay":"0-200000",
+	"resolution":"5.9604645E-8"
+	}]
+}

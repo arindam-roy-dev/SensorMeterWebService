@@ -191,6 +191,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+	"id":15002,
+	"manufacturer":"LG",
+	"modelCode":"LG-K420",
+	"modelName":"K10",
+	"androidVersionRelease":"5.1.1",
+	"androidVersionCode":"LOLLIPOP_MR1",
+	"androidVersionName":"Lollipop"
+	},{
     "id":16001,
 	"manufacturer":"Huawei",
 	"modelCode":"Nexus 6P",
