@@ -63,6 +63,14 @@
 	"androidVersionCode":"N",
 	"androidVersionName":"Nougat"
 	},{
+	"id":11010,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-J710F",
+	"modelName":"J7 (2016)",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
 	"id":11002,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-E500H",
