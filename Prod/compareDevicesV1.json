@@ -7,6 +7,14 @@
 "contactEmail":"arindam.roy.dev@gmail.com",
 
 "compareDevice":[{
+	"id":11011,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-G965U",
+	"modelName":"S9 Plus",
+	"androidVersionRelease":"8.0.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
 	"id":11007,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-A750F",
@@ -102,6 +110,14 @@
 	"androidVersionRelease":"6.0.1",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
+	},{
+	"id":12010,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Note 6 Pro",
+	"modelName":"",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":""
 	},{
 	"id":12002,
 	"manufacturer":"Xiaomi",
@@ -326,5 +342,13 @@
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
+	},{
+	"id":92001,
+	"manufacturer":"Kata",
+	"modelCode":"C2",
+	"modelName":"C2",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
 	}]
 }
