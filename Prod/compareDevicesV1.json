@@ -175,6 +175,14 @@
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
 	},{
+	"id":12011,
+	"manufacturer":"Xiaomi",
+	"modelCode":"2014818",
+	"modelName":"Redmi 2",
+	"androidVersionRelease":"5.1.1",
+	"androidVersionCode":"LOLLIPOP_MR1",
+	"androidVersionName":"Lollipop"
+	},{
 	"id":13001,
 	"manufacturer":"Infinix",
 	"modelCode":"Infinix X573",
@@ -270,6 +278,14 @@
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
+	},{
+	"id":17008,
+	"manufacturer":"Oppo",
+	"modelCode":"CPH1725",
+	"modelName":"Gold F5 Youth",
+	"androidVersionRelease":"7.1.1",
+	"androidVersionCode":"N_MR1",
+	"androidVersionName":"Nougat"
 	},{
 	"id":17002,
 	"manufacturer":"Oppo",

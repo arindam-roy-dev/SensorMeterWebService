@@ -1,0 +1,68 @@
+{
+"name":"Xiaomi Redmi 2",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"MPU6050-accel",
+	"vendor":"Invensense",
+	"powerConsumption":"0.5",
+	"maxRange":"156.8",
+	"delay":"10000-5000000",
+	"resolution":"5.98144E-4"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"4.38",
+	"maxRange":"19.6133",
+	"delay":"10000-0",
+	"resolution":"5.98144E-4"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"MPU6050-gyro",
+	"vendor":"Invensense",
+	"powerConsumption":"3.6",
+	"maxRange":"34.906586",
+	"delay":"10000-5000000",
+	"resolution":"0.0010681152"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"4.38",
+	"maxRange":"19.6133",
+	"delay":"10000-0",
+	"resolution":"5.98144E-4"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"yas537-mag",
+	"vendor":"Yamaha",
+	"powerConsumption":"0.28",
+	"maxRange":"2000.0",
+	"delay":"10000-5000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"LIGHT",
+	"name":"liteon-light",
+	"vendor":"liteon",
+	"powerConsumption":"0.2",
+	"maxRange":"60000.0",
+	"delay":"0-10000000",
+	"resolution":"0.0125"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"liteon-proximity",
+	"vendor":"liteon",
+	"powerConsumption":"3.0",
+	"maxRange":"5.0",
+	"delay":"0-10000000",
+	"resolution":"5.0"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"4.38",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	}]
+}
