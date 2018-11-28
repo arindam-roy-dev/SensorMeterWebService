@@ -95,14 +95,6 @@
 	"androidVersionCode":"LOLLIPOP_MR1",
 	"androidVersionName":"Lollipop"
 	},{
-	"id":12012,
-	"manufacturer":"Xiaomi",
-	"modelCode":"Redmi Y2",
-	"modelName":"Redmi Y2",
-	"androidVersionRelease":"8.1.0",
-	"androidVersionCode":"O_MR1",
-	"androidVersionName":"Oreo"
-	},{
 	"id":12008,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi 6A",
@@ -134,6 +126,14 @@
 	"androidVersionRelease":"7.0",
 	"androidVersionCode":"N",
 	"androidVersionName":"Nougat"
+	},{
+	"id":12012,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi Y2",
+	"modelName":"Redmi Y2",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
 	},{
 	"id":12003,
 	"manufacturer":"Xiaomi",
