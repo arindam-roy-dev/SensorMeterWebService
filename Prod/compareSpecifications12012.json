@@ -1,0 +1,92 @@
+{
+"name":"Xiaomi Redmi Y2",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"LSM6DS3 Accelerometer",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.15",
+	"maxRange":"78.4532",
+	"delay":"5000-1000000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"0.59999084",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"LSM6DS3 Gyroscope",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.45",
+	"maxRange":"34.906586",
+	"delay":"5000-1000000",
+	"resolution":"6.1035156E-4"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"0.59999084",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"AK09918 Magnetometer",
+	"vendor":"AKM",
+	"powerConsumption":"1.1",
+	"maxRange":"4911.9995",
+	"delay":"20000-1000000",
+	"resolution":"0.14953613"
+	},{
+	"sensorType":"LIGHT",
+	"name":"stk3x1x alsprx",
+	"vendor":"Sensortek",
+	"powerConsumption":"0.09",
+	"maxRange":"4096.0",
+	"delay":"0-65535000",
+	"resolution":"0.5399933"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"stk3x1x alsprx",
+	"vendor":"Sensortek",
+	"powerConsumption":"0.1",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"0.05000305"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"0.59999084",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.2588501",
+	"maxRange":"1.0",
+	"delay":"20000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.5499878",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.1499939",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}
