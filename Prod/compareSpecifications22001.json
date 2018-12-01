@@ -1,0 +1,92 @@
+{
+"name":"Lenovo K6 Power",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BMI160 Accelerometer",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.18",
+	"maxRange":"39.22661",
+	"delay":"5000-1000000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"1.0799866",
+	"maxRange":"39.22661",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"BMI160 Gyroscope",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.9",
+	"maxRange":"8.726654",
+	"delay":"5000-1000000",
+	"resolution":"0.0010681152"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"1.0799866",
+	"maxRange":"39.22661",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"ST480 ST480",
+	"vendor":"SENODIA",
+	"powerConsumption":"0.24",
+	"maxRange":"4911.9995",
+	"delay":"20000-1000000",
+	"resolution":"0.14953613"
+	},{
+	"sensorType":"LIGHT",
+	"name":"EPL259x ALS/PS EPL259x",
+	"vendor":"Eminent",
+	"powerConsumption":"0.32",
+	"maxRange":"30000.0",
+	"delay":"0-65535000",
+	"resolution":"0.0010070801"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"EPL259x ALS/PS EPL259x",
+	"vendor":"Eminent",
+	"powerConsumption":"0.32",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"0.10070801"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.0799866",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"0.42297363",
+	"maxRange":"1.0",
+	"delay":"20000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.1399841",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.17999268",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}

@@ -359,6 +359,14 @@
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
 	},{
+	"id":22001,
+	"manufacturer":"Lenovo",
+	"modelCode":"Lenovo K33a42",
+	"modelName":"K6 Power",
+	"androidVersionRelease":"7.0",
+	"androidVersionCode":"N",
+	"androidVersionName":"Nougat"
+	},{
 	"id":91001,
 	"manufacturer":"Longcheer",
 	"modelCode":"D",
