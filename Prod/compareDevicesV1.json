@@ -159,6 +159,14 @@
 	"androidVersionCode":"N_MR1",
 	"androidVersionName":"Nougat"
 	},{
+	"id":12013,
+	"manufacturer":"Xiaomi",
+	"modelCode":"Redmi 5",
+	"modelName":"Redmi 5",
+	"androidVersionRelease":"7.1.2",
+	"androidVersionCode":"N_MR1",
+	"androidVersionName":"Nougat"
+	},{
 	"id":12005,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi 4A",
@@ -211,14 +219,6 @@
 	"manufacturer":"OnePlus",
 	"modelCode":"ONEPLUS A5010",
 	"modelName":"5T",
-	"androidVersionRelease":"8.1.0",
-	"androidVersionCode":"O_MR1",
-	"androidVersionName":"Oreo"
-	},{
-	"id":14004,
-	"manufacturer":"OnePlus",
-	"modelCode":"ONEPLUS A5000",
-	"modelName":"5",
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
