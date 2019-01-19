@@ -247,6 +247,14 @@
 	"androidVersionCode":"LOLLIPOP_MR1",
 	"androidVersionName":"Lollipop"
 	},{
+	"id":16003,
+	"manufacturer":"Huawei",
+	"modelCode":"LND-AL30",
+	"modelName":"Honor 7C (2018)",
+	"androidVersionRelease":"8.0.0",
+	"androidVersionCode":"O",
+	"androidVersionName":"Oreo"
+	},{
     "id":16001,
 	"manufacturer":"Huawei",
 	"modelCode":"Nexus 6P",

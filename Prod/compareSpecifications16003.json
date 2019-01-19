@@ -1,0 +1,76 @@
+{
+"name":"Huawei Honor 7C (2018)",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BMA255 Accelerometer/Temperature/Double-tap",
+	"vendor":"BOSCH",
+	"powerConsumption":"0.13",
+	"maxRange":"156.9064",
+	"delay":"5000-1000000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"156.9064",
+	"delay":"20000-200000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"156.9064",
+	"delay":"20000-200000",
+	"resolution":"0.01914978"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"AK09918 Magnetometer",
+	"vendor":"AKM",
+	"powerConsumption":"1.1",
+	"maxRange":"4911.9995",
+	"delay":"20000-1000000",
+	"resolution":"0.14953613"
+	},{
+	"sensorType":"LIGHT",
+	"name":"stk3x1x alsprx",
+	"vendor":"Sensortek",
+	"powerConsumption":"0.08",
+	"maxRange":"4096.0",
+	"delay":"0-65535000",
+	"resolution":"0.5399933"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"stk3x1x alsprx",
+	"vendor":"Sensortek",
+	"powerConsumption":"0.1",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"0.05000305"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMagnetic Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"1.0",
+	"delay":"20000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.2387085",
+	"maxRange":"1.0",
+	"delay":"20000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"QTI",
+	"powerConsumption":"0.12998962",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}
