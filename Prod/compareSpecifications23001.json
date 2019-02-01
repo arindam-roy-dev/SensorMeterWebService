@@ -1,0 +1,92 @@
+{
+"name":"Vivo Y83",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"ACCELEROMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"78.4532",
+	"delay":"5000-20000",
+	"resolution":"0.0012"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"LINEARACCEL",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"39.2266",
+	"delay":"5000-20000",
+	"resolution":"0.0012"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"AK09918-pseudo-gyro",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"34.9066",
+	"delay":"5000-20000",
+	"resolution":"0.0011"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"GRAVITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"39.2266",
+	"delay":"5000-20000",
+	"resolution":"0.0012"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"MAGNETOMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"4912.0",
+	"delay":"10000-200000",
+	"resolution":"0.15"
+	},{
+	"sensorType":"LIGHT",
+	"name":"LIGHT",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"65535.0",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"PROXIMITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"1.0",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"0.003",
+	"maxRange":"1.0",
+	"delay":"5000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMag Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"0.003",
+	"maxRange":"1.0",
+	"delay":"5000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"ROTATION_VECTOR",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"1.0",
+	"delay":"5000-20000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"STEP_COUNTER",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"2.14748365E9",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	}]
+}

@@ -383,6 +383,14 @@
 	"androidVersionCode":"N",
 	"androidVersionName":"Nougat"
 	},{
+	"id":23001,
+	"manufacturer":"Vivo",
+	"modelCode":"vivo 1802",
+	"modelName":"Y83",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":91001,
 	"manufacturer":"Longcheer",
 	"modelCode":"D",
