@@ -406,5 +406,13 @@
 	"androidVersionRelease":"6.0",
 	"androidVersionCode":"M",
 	"androidVersionName":"Marshmallow"
+	},{
+	"id":93001,
+	"manufacturer":"Tecno",
+	"modelCode":"TECNO L8 Lite",
+	"modelName":"L8 Lite",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":""
 	}]
 }
