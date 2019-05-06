@@ -391,6 +391,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+	"id":23002,
+	"manufacturer":"Vivo",
+	"modelCode":"vivo 1804",
+	"modelName":"V11 Pro",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":91001,
 	"manufacturer":"Longcheer",
 	"modelCode":"D",
