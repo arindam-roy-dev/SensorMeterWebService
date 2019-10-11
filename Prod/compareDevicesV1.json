@@ -7,6 +7,14 @@
 "contactEmail":"arindam.roy.dev@gmail.com",
 
 "compareDevice":[{
+	"id":11013,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-N950U",
+	"modelName":"Note 8",
+	"androidVersionRelease":"9",
+	"androidVersionCode":"P",
+	"androidVersionName":"Pie"
+	},{
 	"id":11011,
 	"manufacturer":"Samsung",
 	"modelCode":"SM-G965U",

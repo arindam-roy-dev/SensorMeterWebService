@@ -1,0 +1,92 @@
+{
+"name":"Samsung Note 8",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"LSM6DSL Accelerometer",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.15",
+	"maxRange":"78.4532",
+	"delay":"2500-1000000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration",
+	"vendor":"QTI",
+	"powerConsumption":"0.59999084",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"LSM6DSL Gyroscope",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.45",
+	"maxRange":"17.453293",
+	"delay":"2500-1000000",
+	"resolution":"0.0012207031"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity",
+	"vendor":"QTI",
+	"powerConsumption":"0.59999084",
+	"maxRange":"78.4532",
+	"delay":"5000-200000",
+	"resolution":"0.0023956299"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"AK09916C Magnetometer",
+	"vendor":"AKM",
+	"powerConsumption":"1.1",
+	"maxRange":"4911.9995",
+	"delay":"20000-1000000",
+	"resolution":"0.14953613"
+	},{
+	"sensorType":"LIGHT",
+	"name":"TMD4906 ALS",
+	"vendor":"AMS TAOS",
+	"powerConsumption":"0.1",
+	"maxRange":"1.0",
+	"delay":"50000-65535000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PRESSURE",
+	"name":"LPS22HB Barometer",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.275",
+	"maxRange":"1260.0",
+	"delay":"33333-65535000",
+	"resolution":"1.9836426E-4"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"TMD4906 PROX",
+	"vendor":"AMS TAOS",
+	"powerConsumption":"0.1",
+	"maxRange":"8.000183",
+	"delay":"0-65535000",
+	"resolution":"100.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"0.59999084",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector",
+	"vendor":"QTI",
+	"powerConsumption":"1.5499878",
+	"maxRange":"1.0",
+	"delay":"5000-200000",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"Step Counter",
+	"vendor":"Samsung Electronics",
+	"powerConsumption":"0.001",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}
