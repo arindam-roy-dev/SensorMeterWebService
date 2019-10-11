@@ -1,0 +1,28 @@
+{
+"name":"Alcatel Tetra",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"ACCELEROMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"39.2266",
+	"delay":"10000-1000000",
+	"resolution":"0.0012"
+	},{
+	"sensorType":"LIGHT",
+	"name":"LIGHT",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"65535.0",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"PROXIMITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.001",
+	"maxRange":"1.0",
+	"delay":"0-1000000",
+	"resolution":"1.0"
+	}]
+}

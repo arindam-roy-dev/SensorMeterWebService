@@ -1,0 +1,100 @@
+{
+"name":"GCE x86 phone",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"acceleration",
+	"vendor":"Google",
+	"powerConsumption":"0.45",
+	"maxRange":"39.226593",
+	"delay":"4444-5000000",
+	"resolution":"0.45"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"9.049999",
+	"maxRange":"19.6133",
+	"delay":"4444-0",
+	"resolution":"0.45"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"gyroscope",
+	"vendor":"Google",
+	"powerConsumption":"3.6",
+	"maxRange":"8.726639",
+	"delay":"4444-5000000",
+	"resolution":"10.0"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"9.049999",
+	"maxRange":"19.6133",
+	"delay":"4444-0",
+	"resolution":"0.45"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"magnetic_field",
+	"vendor":"Google",
+	"powerConsumption":"5.0",
+	"maxRange":"4911.9995",
+	"delay":"14285-5000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"LIGHT",
+	"name":"light",
+	"vendor":"Google",
+	"powerConsumption":"0.175",
+	"maxRange":"10000.0",
+	"delay":"0-5000000",
+	"resolution":"10.0"
+	},{
+	"sensorType":"PRESSURE",
+	"name":"pressure",
+	"vendor":"Google",
+	"powerConsumption":"0.004",
+	"maxRange":"1100.0",
+	"delay":"28571-5000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"proximity",
+	"vendor":"Google",
+	"powerConsumption":"12.675",
+	"maxRange":"5.0",
+	"delay":"0-5000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"RELATIVE HUMIDITY",
+	"name":"relative_humidity",
+	"vendor":"Google",
+	"powerConsumption":"1.0",
+	"maxRange":"100.0",
+	"delay":"4444-5000000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"9.049999",
+	"maxRange":"1.0",
+	"delay":"4444-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMag Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"9.049999",
+	"maxRange":"1.0",
+	"delay":"4444-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"9.049999",
+	"maxRange":"1.0",
+	"delay":"4444-0",
+	"resolution":"5.9604645E-8"
+	}]
+}

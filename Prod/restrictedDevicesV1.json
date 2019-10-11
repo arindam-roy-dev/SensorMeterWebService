@@ -12,5 +12,8 @@
 	},{
 	"manufacturer":"Samsung",
 	"modelCode":"SM-J210F"
+	},{
+	"manufacturer":"unknown",
+	"modelCode":"GCE x86 phone"
 	}]
 }

@@ -95,6 +95,14 @@
 	"androidVersionCode":"LOLLIPOP_MR1",
 	"androidVersionName":"Lollipop"
 	},{
+	"id":11012,
+	"manufacturer":"Samsung",
+	"modelCode":"SM-J200G",
+	"modelName":"J2",
+	"androidVersionRelease":"5.1.1",
+	"androidVersionCode":"LOLLIPOP_MR1",
+	"androidVersionName":"Lollipop"
+	},{
 	"id":12008,
 	"manufacturer":"Xiaomi",
 	"modelCode":"Redmi 6A",
@@ -206,6 +214,14 @@
 	"androidVersionRelease":"8.0",
 	"androidVersionCode":"O",
 	"androidVersionName":"Oreo"
+	},{
+	"id":13002,
+	"manufacturer":"Infinix",
+	"modelCode":"Infinix HOT 4 Lite",
+	"modelName":"HOT 4 Lite",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
 	},{
 	"id":14001,
 	"manufacturer":"OnePlus",
@@ -398,6 +414,38 @@
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
+	},{
+	"id":24001,
+	"manufacturer":"Alcatel",
+	"modelCode":"5041C",
+	"modelName":"Tetra",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
+	"id":25001,
+	"manufacturer":"Lava",
+	"modelCode":"A68",
+	"modelName":"A68",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
+	},{
+	"id":89001,
+	"manufacturer":"GCE",
+	"modelCode":"GCE x86 phone",
+	"modelName":"X86 Phone",
+	"androidVersionRelease":"9",
+	"androidVersionCode":"P",
+	"androidVersionName":"Pie"
+	},{
+	"id":90001,
+	"manufacturer":"QMobile",
+	"modelCode":"QMobile X700 PRO II",
+	"modelName":"X700 PRO II",
+	"androidVersionRelease":"6.0",
+	"androidVersionCode":"M",
+	"androidVersionName":"Marshmallow"
 	},{
 	"id":91001,
 	"manufacturer":"Longcheer",

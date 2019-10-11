@@ -1,0 +1,20 @@
+{
+"name":"Samsung J2",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"K2HH Acceleration ",
+	"vendor":"STM",
+	"powerConsumption":"0.13",
+	"maxRange":"39.2266",
+	"delay":"5000-200000",
+	"resolution":"0.0011971008"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"CM36672P Proximity Sensor",
+	"vendor":"Capella Microsystems, Inc.",
+	"powerConsumption":"0.75",
+	"maxRange":"8.0",
+	"delay":"0-200000",
+	"resolution":"8.0"
+	}]
+}

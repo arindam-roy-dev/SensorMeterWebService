@@ -1,0 +1,20 @@
+{
+"name":"QMobile X700 PRO II",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"ACCELEROMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"32.0",
+	"delay":"10000-0",
+	"resolution":"0.00390625"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"PROXIMITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"1.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	}]
+}

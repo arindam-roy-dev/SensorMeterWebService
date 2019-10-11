@@ -1,0 +1,20 @@
+{
+"name":"Lava A68",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"BMA2x2 3-axis Accelerometer",
+	"vendor":"Bosch",
+	"powerConsumption":"0.2",
+	"maxRange":"39.2266",
+	"delay":"10000-0",
+	"resolution":"0.15322891"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"TP Proximity sensor",
+	"vendor":"LITEON",
+	"powerConsumption":"0.005",
+	"maxRange":"1.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	}]
+}

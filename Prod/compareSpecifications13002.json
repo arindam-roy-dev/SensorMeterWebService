@@ -1,0 +1,68 @@
+{
+"name":"Infinix HOT 4 Lite",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"ACCELEROMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"32.0",
+	"delay":"10000-0",
+	"resolution":"0.00390625"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"Linear Acceleration Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"6.48",
+	"maxRange":"19.6133",
+	"delay":"10000-0",
+	"resolution":"0.00390625"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"Software 12 Gyroscope  ",
+	"vendor":"Software",
+	"powerConsumption":"6.1",
+	"maxRange":"34.91",
+	"delay":"10000-0",
+	"resolution":"0.0107"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"Gravity Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"6.48",
+	"maxRange":"19.6133",
+	"delay":"10000-0",
+	"resolution":"0.00390625"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"MAGNETOMETER",
+	"vendor":"MTK",
+	"powerConsumption":"0.25",
+	"maxRange":"600.0",
+	"delay":"10000-0",
+	"resolution":"0.0016667"
+	},{
+	"sensorType":"LIGHT",
+	"name":"LIGHT",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"10240.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"PROXIMITY",
+	"vendor":"MTK",
+	"powerConsumption":"0.13",
+	"maxRange":"1.0",
+	"delay":"0-0",
+	"resolution":"1.0"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"6.48",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	}]
+}
