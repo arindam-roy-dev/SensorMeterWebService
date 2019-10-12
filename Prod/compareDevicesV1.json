@@ -133,7 +133,7 @@
 	"modelName":"Redmi Note 6 Pro",
 	"androidVersionRelease":"8.1.0",
 	"androidVersionCode":"O_MR1",
-	"androidVersionName":""
+	"androidVersionName":"Oreo"
 	},{
 	"id":12002,
 	"manufacturer":"Xiaomi",
@@ -477,6 +477,6 @@
 	"modelName":"L8 Lite",
 	"androidVersionRelease":"6.0",
 	"androidVersionCode":"M",
-	"androidVersionName":""
+	"androidVersionName":"Marshmallow"
 	}]
 }
