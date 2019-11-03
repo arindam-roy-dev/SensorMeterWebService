@@ -1,0 +1,92 @@
+{
+"name":"Vivo Y95",
+"sensors":[{
+	"sensorType":"ACCELEROMETER",
+	"name":"LIS3DH Accelerometer",
+	"vendor":"STMicroelectronics",
+	"powerConsumption":"0.185",
+	"maxRange":"39.22661",
+	"delay":"10000-1000000",
+	"resolution":"0.019607544"
+	},{
+	"sensorType":"LINEAR ACCELERATION",
+	"name":"AK09918-linear-acceleration",
+	"vendor":"akm",
+	"powerConsumption":"1.0",
+	"maxRange":"78.4",
+	"delay":"10000-50000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"GYROSCOPE",
+	"name":"AK09918-pseudo-gyro",
+	"vendor":"akm",
+	"powerConsumption":"1.0",
+	"maxRange":"2000.0",
+	"delay":"10000-50000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"GRAVITY",
+	"name":"AK09918-gravity",
+	"vendor":"akm",
+	"powerConsumption":"1.0",
+	"maxRange":"10.0",
+	"delay":"10000-50000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"MAGNETIC FIELD",
+	"name":"AK09918 Magnetometer",
+	"vendor":"AKM",
+	"powerConsumption":"1.1",
+	"maxRange":"4900.0",
+	"delay":"10000-50000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"LIGHT",
+	"name":"stk3x3x light",
+	"vendor":"Sensortek",
+	"powerConsumption":"0.09",
+	"maxRange":"4096.0",
+	"delay":"0-65535000",
+	"resolution":"0.5399933"
+	},{
+	"sensorType":"PROXIMITY",
+	"name":"stk3x3x proximty",
+	"vendor":"Sensortek",
+	"powerConsumption":"0.1",
+	"maxRange":"5.000305",
+	"delay":"0-65535000",
+	"resolution":"1.0"
+	},{
+	"sensorType":"GAME ROTATION VECTOR",
+	"name":"Game Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"2.285",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"GEOMAGNETIC ROTATION VECTOR",
+	"name":"GeoMag Rotation Vector Sensor",
+	"vendor":"AOSP",
+	"powerConsumption":"2.285",
+	"maxRange":"1.0",
+	"delay":"10000-0",
+	"resolution":"5.9604645E-8"
+	},{
+	"sensorType":"ROTATION VECTOR",
+	"name":"AK09918-ratation-vector",
+	"vendor":"akm",
+	"powerConsumption":"1.0",
+	"maxRange":"360.0",
+	"delay":"10000-50000",
+	"resolution":"0.1"
+	},{
+	"sensorType":"STEP COUNTER",
+	"name":"step counter",
+	"vendor":"vivo",
+	"powerConsumption":"1.0",
+	"maxRange":"1.0",
+	"delay":"0-2147483647",
+	"resolution":"1.0"
+	}]
+}

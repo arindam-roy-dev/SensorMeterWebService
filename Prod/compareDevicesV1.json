@@ -423,6 +423,14 @@
 	"androidVersionCode":"O_MR1",
 	"androidVersionName":"Oreo"
 	},{
+	"id":23003,
+	"manufacturer":"Vivo",
+	"modelCode":"vivo 1807",
+	"modelName":"Vivo Y95",
+	"androidVersionRelease":"8.1.0",
+	"androidVersionCode":"O_MR1",
+	"androidVersionName":"Oreo"
+	},{
 	"id":24001,
 	"manufacturer":"Alcatel",
 	"modelCode":"5041C",
